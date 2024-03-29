@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Intro/Intro/Intro.iml" filepath="$PROJECT_DIR$/1. Intro/Intro/Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Intro/Задачи/Point distance/Point distance.iml" filepath="$PROJECT_DIR$/1. Intro/Задачи/Point distance/Point distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Intro/Задачи/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/1. Intro/Задачи/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Даниял Темирханов.iml" filepath="$PROJECT_DIR$/.idea/Даниял Темирханов.iml" />
     </modules>
   </component>
