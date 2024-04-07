@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2. Операции деления/2. Операции деления.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/1. Введение.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/1. Введение.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/Intro/Intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Intro/Intro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/Intro/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Intro/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Point distance/Point distance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Point distance/Point distance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Point distance/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Point distance/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Rectangle/Rectangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Rectangle/Rectangle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Rectangle/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Rectangle/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "andreyboev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DanTem672/Java.git",
+    "accountId": "14ee3d3f-54dc-4e50-860d-ebeb7e8358a6"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,25 +52,32 @@
   "keyToString": {
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/dandf/IdeaProjects/Java/Point distance/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WORKSPACE\Репетиторство\Ученики\Даниял Темирханов\Java\2. Операции деления\Задачи" />
       <recent name="C:\Users\dandf\IdeaProjects\Java\1. Intro\Задачи" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Rectangle" />
@@ -64,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Three-digit number sum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Intro" />
@@ -71,10 +106,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Rectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Rectangle" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -82,8 +131,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-graalvm-jdk-21.0.2-f644763e9732-f81af680" />
-        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -95,18 +144,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711285382224</updated>
+      <workItem from="1712498518950" duration="1379000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/1. Intro/Задачи/Rectangle/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

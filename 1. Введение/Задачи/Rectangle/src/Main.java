@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         int height, width;
@@ -12,9 +9,5 @@ public class Main {
         width = input.nextInt();
         System.out.printf("Периметр = %d\n", (height + width)*2 );
         System.out.printf("Площадь = %d",height * width);
-
-
-
-
     }
 }
