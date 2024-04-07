@@ -6,6 +6,6 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
-        System.out.printf("Sum = %d", (num / 10) + (num % 10));
+        System.out.printf("Sum = %d",(num / 100 )+ (num / 10 % 10) + (num % 10) );
     }
 }
