@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. Операции деления/2. Операции деления.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="Операции деления">
+      <change afterPath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/1. Введение.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/1. Введение.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/Intro/Intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Intro/Intro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/Intro/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Intro/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Point distance/Point distance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Point distance/Point distance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Point distance/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Point distance/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Rectangle/Rectangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Rectangle/Rectangle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Intro/Задачи/Rectangle/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1. Введение/Задачи/Rectangle/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,11 +136,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711285382224</updated>
-      <workItem from="1712498518950" duration="1379000" />
+      <workItem from="1712498518950" duration="2259000" />
     </task>
+    <task id="LOCAL-00001" summary="Операции деления">
+      <option name="closed" value="true" />
+      <created>1712499969143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712499969143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Операции деления" />
+    <option name="LAST_COMMIT_MESSAGE" value="Операции деления" />
   </component>
 </project>
