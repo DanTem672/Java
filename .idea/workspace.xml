@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="Решение задачи">
+    <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Seconds/src/Main.java">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/Seconds.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seconds/Seconds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/Seconds.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seconds/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +67,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dandf\IdeaProjects\Java\2. Операции деления\Задачи" />
       <recent name="F:\WORKSPACE\Репетиторство\Ученики\Даниял Темирханов\Java\2. Операции деления\Задачи" />
+      <recent name="C:\Users\dandf\IdeaProjects\Java\2. Операции деления\Задачи" />
       <recent name="C:\Users\dandf\IdeaProjects\Java\1. Intro\Задачи" />
     </key>
   </component>
@@ -167,7 +166,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712502500808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix workspace bug 2.0">
+      <option name="closed" value="true" />
+      <created>1712506673544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712506673544</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix workspace bug 3.0">
+      <option name="closed" value="true" />
+      <created>1712506698167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712506698167</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Seconds/src/Main.java">
+      <option name="closed" value="true" />
+      <created>1712506723984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712506723984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +211,9 @@
     <MESSAGE value="Операции деления" />
     <MESSAGE value="Решение задачи" />
     <MESSAGE value="Решение задачи &quot;Секунды&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задачи &quot;Секунды&quot;" />
+    <MESSAGE value="Fix workspace bug 2.0" />
+    <MESSAGE value="Fix workspace bug 3.0" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Seconds/src/Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Seconds/src/Main.java" />
   </component>
 </project>
