@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Введение/Intro/Intro.iml" filepath="$PROJECT_DIR$/1. Введение/Intro/Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Введение/Задачи/Point distance/Point distance.iml" filepath="$PROJECT_DIR$/1. Введение/Задачи/Point distance/Point distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Введение/Задачи/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/1. Введение/Задачи/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/Seconds.iml" filepath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/Seconds.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Операции деления/Задачи/Three-digit number sum/Three-digit number sum.iml" filepath="$PROJECT_DIR$/2. Операции деления/Задачи/Three-digit number sum/Three-digit number sum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Даниял Темирханов.iml" filepath="$PROJECT_DIR$/.idea/Даниял Темирханов.iml" />
     </modules>
   </component>
 </project>

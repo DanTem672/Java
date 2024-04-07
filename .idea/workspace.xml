@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Seconds/src/Main.java">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seconds/Seconds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/Seconds.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seconds/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2. Операции деления/Задачи/Seconds/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bfa3456-b0f6-44a0-8d6b-42c7711e948b" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;Seconds/src/Main.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +46,6 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -136,7 +131,6 @@
       <set>
         <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
         <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
-        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
       </set>
     </attachedChunks>
   </component>
@@ -149,6 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711285382224</updated>
       <workItem from="1712498518950" duration="2259000" />
+      <workItem from="1712507311167" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="Операции деления">
       <option name="closed" value="true" />
